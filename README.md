@@ -5,3 +5,8 @@ Description: The dataset was obtained from Kaggle. It contains various features 
 
 Dataset Link:
 https://www.kaggle.com/c/msk-redefining-cancer-treatment/data
+
+
+Data: Memorial Sloan Kettering Cancer Center (MSKCC)
+
+Download training_variants.zip and training_text.zip from Kaggle.
